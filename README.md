@@ -38,6 +38,17 @@ organisational settings.
 - **State the boundary up front** — what the system must never be handed, written before the
   integration rather than after an incident.
 
+## Also on this profile
+
+Not pinned, but part of the record:
+
+- [happy-bee](https://github.com/Jouwert/happy-bee) — Raspberry Pi-assisted micro-drone experiment: FPV video ingest, face recognition and PPM control. An older hands-on hardware/computer-vision project, kept readable.
+- [citizens-assembly-knowledge-base](https://github.com/Jouwert/citizens-assembly-knowledge-base) — a modular site with a chatbot answering questions about citizens' assemblies; early civic-tech exploration.
+- [italiaans-oefenapp](https://github.com/Jouwert/italiaans-oefenapp) — small tool for practising Italian verb conjugations.
+
+Earlier work on this account also includes an IP-camera facial-recognition script (2018, a fork) and
+some private repositories used for client and pilot work.
+
 ## Currently
 
 Building tooling around my own agent platform and documenting the parts that were worth keeping.
