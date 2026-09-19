@@ -1,16 +1,44 @@
-## Hi there 👋
+# Jouwert van Geene
 
-<!--
-**Jouwert/Jouwert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Deployment Strategist — responsible real-world AI implementation.**
 
-Here are some ideas to get you started:
+I translate organisational problems into AI workflows that can actually be adopted, governed and
+used. My work sits where AI becomes operational: workflow design, deployment decisions, and the
+privacy and review boundaries that make implementation credible in public-sector and
+organisational settings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- **Turn operational needs into deployable workflows** — not demos. Bounded scope, real users,
+  documented trade-offs.
+- **Build and operate the platform I run them on** — routing, delegation, memory and cost
+  accounting, extended as needs appear and retired when they do not earn their keep.
+- **Keep the boundaries explicit** — what a system must never receive, who decides what gets
+  published, and what is deliberately left out of a public writeup.
+
+## Selected work
+
+| Repository | What it shows |
+|---|---|
+| [ndt-ai-workflows](https://github.com/Jouwert/ndt-ai-workflows) | Privacy-aware AI assistant architecture inside a Microsoft 365 environment — adoption, support workflow and governance in a real organisation |
+| [xr-fundraising-reporting](https://github.com/Jouwert/xr-fundraising-reporting) | Multi-source reporting pipeline and executive decision support, with a privacy-preserving donor model |
+| [bvnw-news-assistant](https://github.com/Jouwert/bvnw-news-assistant) | A bounded editorial agent with human approval as the publishing gate |
+| [hermes-tooling](https://github.com/Jouwert/hermes-tooling) | Extending my own agent platform — adopted tools measured rather than assumed, vendor claims separated from results, and negative findings published |
+| [wikipedia-editorial-agent](https://github.com/Jouwert/wikipedia-editorial-agent) | Goals and governance for AI-assisted Dutch Wikipedia work — corrective search, neutral prose, human authority at the publication gate |
+
+## How I work
+
+- **Adopt and measure** before building. The measurement is usually the more useful finding, and
+  it is often less flattering than the marketing.
+- **Separate claims from evidence.** A vendor benchmark is a hypothesis until it reproduces on
+  your own workload.
+- **Publish the negatives.** A hypothesis that did not hold is worth recording — and a component
+  left running without a verdict is a liability.
+- **A person decides** anything consequential. Agents propose; humans publish.
+- **State the boundary up front** — what the system must never be handed, written before the
+  integration rather than after an incident.
+
+## Currently
+
+Building tooling around my own agent platform and documenting the parts that were worth keeping.
+Wageningen, Netherlands.
