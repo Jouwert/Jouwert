@@ -42,7 +42,6 @@ organisational settings.
 
 Not pinned, but part of the record:
 
-- [happy-bee](https://github.com/Jouwert/happy-bee) — Raspberry Pi-assisted micro-drone experiment: FPV video ingest, face recognition and PPM control. An older hands-on hardware/computer-vision project, kept readable.
 - [citizens-assembly-knowledge-base](https://github.com/Jouwert/citizens-assembly-knowledge-base) — a modular site with a chatbot answering questions about citizens' assemblies; early civic-tech exploration.
 - [italiaans-oefenapp](https://github.com/Jouwert/italiaans-oefenapp) — small tool for practising Italian verb conjugations.
 
